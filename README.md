@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my github's profile!
+Welcome to my GitHub profile!
 
-🌱 I’m currently learning React and Node.js
+🌱 I’m currently learning React and Node.js!
 
 <!--
 **loicbdev/loicbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
