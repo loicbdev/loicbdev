@@ -3,6 +3,7 @@
 Welcome to my GitHub profile!
 
 - 🔭 I am currently in training at the [wild code school](https://www.wildcodeschool.com/)
+
 - 🌱 I’m currently learning React and Node.js!
 
 
@@ -24,7 +25,7 @@ Welcome to my GitHub profile!
 - project :  
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
-- IDE and editor :  
+- IDE :  
 ![vscode](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
 
 <!--
