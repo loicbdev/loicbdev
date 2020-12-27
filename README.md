@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 ![React](https://img.shields.io/badge/-REACT-black?style=plastic&logo=react)
 
 - Back-end :  
-![Node.js](https://img.shields.io/badge/-Node-black?style=plastic&logo=node.js)
+![Node](https://img.shields.io/badge/-Node.js-black?style=plastic&logo=node.js)
 ![mysql](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 
 - dependency :   
