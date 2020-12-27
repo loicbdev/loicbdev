@@ -28,6 +28,9 @@ Welcome to my GitHub profile!
 - IDE :  
 ![vscode](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
 
+
+# [My resume CV](https://loic-bodolec-cv.netlify.app/)
+
 <!--
 **loicbdev/loicbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
