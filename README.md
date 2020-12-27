@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-- 🔭 I am currently in training at the [wild code school](https://www.wildcodeschool.com/).
+- 🔭 I'm student at the [Wild Code School](https://www.wildcodeschool.com/).
 
 - 🌱 I’m currently learning React and Node.js!
 
