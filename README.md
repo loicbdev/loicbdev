@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 ![mysql](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 
 - dependency :   
-![Npm](https://img.shields.io/badge/-NPM-black?style=plastic&logo=npm)
+![Npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
 
 - project :  
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
