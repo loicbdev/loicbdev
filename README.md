@@ -26,12 +26,15 @@ Welcome to my GitHub profile!
 
 
 - dependency :   
+
 ![Npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
 
 - project :  
+
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 - IDE :  
+
 ![vscode](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
 
 
