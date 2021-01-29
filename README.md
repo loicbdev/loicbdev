@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-🌱 I'm student.
+🌱 I'm a student.
 
 
 ### Working with :
