@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-🌱 I'm student at the [Wild Code School](https://www.wildcodeschool.com/).
+🌱 I'm student.
 
 
 ### Working with :
