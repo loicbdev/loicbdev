@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 ![html5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
 ![css3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
 ![js](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![React](https://img.shields.io/badge/-REACT-black?style=plastic&logo=react)
+![React](https://img.shields.io/badge/-VUE-black?style=plastic&logo=vue)
 
 - Back-end :  
 ![Node](https://img.shields.io/badge/-Node.js-black?style=plastic&logo=node.js)
