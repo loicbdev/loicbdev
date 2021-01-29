@@ -21,9 +21,7 @@ Welcome to my GitHub profile!
 - Back-end :
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
 ![My-sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
