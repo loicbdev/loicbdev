@@ -39,7 +39,7 @@ Welcome to my GitHub profile!
 
 
 
-##My portfolio : <https://loic-bodolec-portfolio.netlify.app/>
+## My portfolio : <https://loic-bodolec-portfolio.netlify.app/>
 
 <!--
 **loicbdev/loicbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
