@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 
 ![Npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
 
-- project versioning :  
+- versioning :  
 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
