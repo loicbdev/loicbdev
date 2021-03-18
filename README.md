@@ -25,11 +25,11 @@ Welcome to my GitHub profile!
 ![My-sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-- dependency :   
+- dependencies :   
 
 ![Npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
 
-- project :  
+- project versioning :  
 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
