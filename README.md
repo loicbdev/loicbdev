@@ -2,7 +2,7 @@
 
 ***Welcome to my GitHub profile!***
 
-🌱 I'm a junior web developer from Nantes.
+🌱 I'm a junior web developer from Nantes (France).
 
 
 ### Working with :
