@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile!
+***Welcome to my GitHub profile!***
 
-🌱 I'm a student.
+🌱 I'm a junior developper from Nantes.
 
 
 ### Working with :
