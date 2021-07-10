@@ -38,6 +38,9 @@ Welcome to my GitHub profile!
 ![vscode](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code) 
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loicbdev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **loicbdev/loicbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
