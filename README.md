@@ -39,7 +39,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loicbdev)](https://github.com/anuraghazra/github-readme-stats)
 
-## [My little portfolio](https://loic-bodolec.netlify.app/)
+
+### [My portfolio](https://loic-bodolec.netlify.app/)
 
 
 <!--
