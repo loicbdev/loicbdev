@@ -23,11 +23,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![My-sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-- dependencies :   
-
-![Npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
-
 - versioning :  
 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -68,5 +63,6 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/-Node.js-black?style=plastic&logo=node.js)
 ![mysql](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 
+![Npm](https://img.shields.io/badge/-npm-black?style=plastic&logo=npm)
 
 -->
