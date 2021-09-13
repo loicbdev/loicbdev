@@ -35,7 +35,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loicbdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## [My portfolio](https://loic-bodolec.netlify.app/)
+## [CV / portfolio](https://loic-bodolec.netlify.app/)
 
 
 <!--
