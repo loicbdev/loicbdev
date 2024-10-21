@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-***Welcome to my GitHub profile!***
+***Welcome to my GitHub profile! (INACTIVE ACCOUNT)***
 
 🌱 I'm a junior web developer from Nantes (France).
 
